@@ -1,7 +1,3 @@
-img {
-	width: 100%;
-}
-
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
@@ -34,3 +30,10 @@ body {
 .container .text-muted {
   margin: 20px 0;
 }
+
+/* Our Custom CSS Below */
+
+.thumbnail {
+	width: 100%;
+}
+
